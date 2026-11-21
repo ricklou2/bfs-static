@@ -8,6 +8,8 @@
 
 A standalone, fully static build of **bfs**, a breadth-first version of the Unix find command, for four Linux architectures, bundled with the upstream source code. The executables have no dynamic interpreter and no shared-library dependencies, so they run directly on Android phones, embedded devices, and minimal Linux systems.
 
+**Upstream version:** 4.0.4
+
 ### Executables
 
 | File | Size | MD5 |
@@ -76,6 +78,8 @@ Architecture triples:
 
 **bfs** 的独立全静态构建包，Unix find 命令的广度优先版本，覆盖四个 Linux 架构，并附上游源码。可执行文件无动态解释器、无共享库依赖，可直接在安卓手机、嵌入式设备和精简 Linux 系统上运行。
 
+**上游版本：**4.0.4
+
 ### 可执行文件
 
 | 文件 | 体积 | MD5 |
@@ -143,6 +147,8 @@ make -j4
 ## 繁體中文
 
 **bfs** 的獨立全靜態建構包，Unix find 指令的廣度優先版本，涵蓋四個 Linux 架構，並附上游原始碼。可執行檔無動態直譯器、無共用程式庫相依性，可直接在安卓手機、嵌入式裝置和精簡 Linux 系統上執行。
+
+**上游版本：**4.0.4
 
 ### 可執行檔
 
